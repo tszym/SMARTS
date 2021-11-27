@@ -1,4 +1,4 @@
-package traffic.vehicle;
+package edu.unimelb.smarts.traffic.vehicle;
 
 /**
  * DriverProfile defines parameters of driver models such as car-following and

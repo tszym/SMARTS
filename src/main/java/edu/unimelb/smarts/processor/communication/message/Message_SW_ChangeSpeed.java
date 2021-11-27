@@ -1,4 +1,4 @@
-package processor.communication.message;
+package edu.unimelb.smarts.processor.communication.message;
 
 /**
  * Server-to-worker message that asks worker to set the pause time after

@@ -1,4 +1,4 @@
-package traffic.road;
+package edu.unimelb.smarts.traffic.road;
 
 import java.awt.geom.Line2D;
 import java.awt.geom.Point2D;

@@ -1,4 +1,4 @@
-package traffic.vehicle;
+package edu.unimelb.smarts.traffic.vehicle;
 
 import traffic.road.Lane;
 import traffic.vehicle.SlowdownFactor;

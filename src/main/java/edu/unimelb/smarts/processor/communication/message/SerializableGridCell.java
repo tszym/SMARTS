@@ -1,4 +1,4 @@
-package processor.communication.message;
+package edu.unimelb.smarts.processor.communication.message;
 
 import traffic.road.GridCell;
 

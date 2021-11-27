@@ -1,4 +1,4 @@
-package processor.worker;
+package edu.unimelb.smarts.processor.worker;
 
 import java.io.IOException;
 import java.net.ServerSocket;

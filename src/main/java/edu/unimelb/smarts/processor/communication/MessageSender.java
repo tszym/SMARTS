@@ -1,4 +1,4 @@
-package processor.communication;
+package edu.unimelb.smarts.processor.communication;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -6,7 +6,7 @@ import java.net.Socket;
 import java.net.SocketException;
 import java.net.UnknownHostException;
 
-import processor.communication.message.MessageUtil;
+import edu.unimelb.smarts.processor.communication.message.MessageUtil;
 
 public class MessageSender {
 	public String address;

@@ -1,4 +1,4 @@
-package processor.communication.message;
+package edu.unimelb.smarts.processor.communication.message;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.ParameterizedType;

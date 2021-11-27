@@ -1,4 +1,4 @@
-package processor.communication.message;
+package edu.unimelb.smarts.processor.communication.message;
 
 /**
  * Server-to-worker message that asks a worker to share certain traffic

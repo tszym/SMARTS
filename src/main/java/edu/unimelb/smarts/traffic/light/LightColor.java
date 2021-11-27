@@ -1,4 +1,4 @@
-package traffic.light;
+package edu.unimelb.smarts.traffic.light;
 
 /**
  * Colors of traffic light. The timing of each color can be different.

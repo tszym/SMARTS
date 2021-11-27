@@ -1,4 +1,4 @@
-package processor.communication;
+package edu.unimelb.smarts.processor.communication;
 
 import java.net.InetSocketAddress;
 import java.net.ServerSocket;

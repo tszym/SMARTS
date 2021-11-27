@@ -1,4 +1,4 @@
-package traffic.vehicle;
+package edu.unimelb.smarts.traffic.vehicle;
 
 import java.awt.geom.Line2D;
 

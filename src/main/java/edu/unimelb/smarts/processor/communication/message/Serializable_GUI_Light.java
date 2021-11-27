@@ -1,4 +1,4 @@
-package processor.communication.message;
+package edu.unimelb.smarts.processor.communication.message;
 
 public class Serializable_GUI_Light {
 	public double longitude;

@@ -1,4 +1,4 @@
-package processor.communication.message;
+package edu.unimelb.smarts.processor.communication.message;
 
 public class Message_SW_Serverless_Stop {
 	public int step;

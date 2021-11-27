@@ -1,4 +1,4 @@
-package traffic.vehicle;
+package edu.unimelb.smarts.traffic.vehicle;
 
 /**
  * This class makes lane-change decisions. Current implementation uses MOBIL

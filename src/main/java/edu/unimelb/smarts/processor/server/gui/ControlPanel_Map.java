@@ -1,4 +1,4 @@
-package processor.server.gui;
+package edu.unimelb.smarts.processor.server.gui;
 
 import java.awt.Desktop;
 import java.awt.Dimension;

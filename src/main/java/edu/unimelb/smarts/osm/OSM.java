@@ -14,7 +14,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  ******************************************************************************/
-package osm;
+package edu.unimelb.smarts.osm;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -43,8 +43,8 @@ import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 
-import common.Settings;
-import traffic.road.RoadType;
+import edu.unimelb.smarts.common.Settings;
+import edu.unimelb.smarts.traffic.road.RoadType;
 
 /**
  * This class extracts road map from OpenStreetMap XML data, which consists of

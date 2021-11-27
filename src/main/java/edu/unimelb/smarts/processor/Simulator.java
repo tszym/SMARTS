@@ -1,11 +1,11 @@
-package processor;
+package edu.unimelb.smarts.processor;
 
 import java.io.IOException;
 import java.net.Socket;
 
-import common.Settings;
-import processor.server.Server;
-import processor.worker.Worker;
+import edu.unimelb.smarts.common.Settings;
+import edu.unimelb.smarts.processor.server.Server;
+import edu.unimelb.smarts.processor.worker.Worker;
 
 /**
  * Class for running a simulator with a single JVM.

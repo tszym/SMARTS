@@ -1,12 +1,12 @@
-package common;
+package edu.unimelb.smarts.common;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 
-import processor.server.DataOutputScope;
-import traffic.light.TrafficLightTiming;
-import traffic.routing.Routing;
-import traffic.vehicle.EmergencyStrategy;
+import edu.unimelb.smarts.processor.server.DataOutputScope;
+import edu.unimelb.smarts.traffic.light.TrafficLightTiming;
+import edu.unimelb.smarts.traffic.routing.Routing;
+import edu.unimelb.smarts.traffic.vehicle.EmergencyStrategy;
 
 /**
  * Global settings.

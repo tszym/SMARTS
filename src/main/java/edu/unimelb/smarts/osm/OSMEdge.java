@@ -14,7 +14,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  ******************************************************************************/
-package osm;
+package edu.unimelb.smarts.osm;
 
 /**
  * Edge on a road network graph. An edge has two nodes, one at the start and one

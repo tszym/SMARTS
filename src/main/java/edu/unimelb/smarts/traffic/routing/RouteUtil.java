@@ -1,4 +1,4 @@
-package traffic.routing;
+package edu.unimelb.smarts.traffic.routing;
 
 import java.util.ArrayList;
 import java.util.HashMap;

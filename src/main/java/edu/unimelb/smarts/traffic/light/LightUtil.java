@@ -1,4 +1,4 @@
-package traffic.light;
+package edu.unimelb.smarts.traffic.light;
 
 public class LightUtil {
 	public static TrafficLightTiming getLightTypeFromString(final String selected) {

@@ -16,4 +16,4 @@
  * the hierarchy should be less than the number of delimiter types. See
  * "appendFieldDelimiter" in "MessageUtil".
  */
-package processor.communication.message;
+package edu.unimelb.smarts.processor.communication.message;

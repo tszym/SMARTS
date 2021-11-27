@@ -1,4 +1,4 @@
-package processor.communication.message;
+package edu.unimelb.smarts.processor.communication.message;
 
 public class SerializableEdgeWithIncident {
 	public int edgeIndex;

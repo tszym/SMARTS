@@ -1,4 +1,4 @@
-package traffic.vehicle;
+package edu.unimelb.smarts.traffic.vehicle;
 
 public enum VehicleType {
 	CAR(4, 55), BIKE(2, 55), TRUCK(8, 27), BUS(10, 27), TRAM(25, 11), PRIORITY(5, 55), VIRTUAL_STATIC(0,

@@ -1,4 +1,4 @@
-package processor.communication;
+package edu.unimelb.smarts.processor.communication;
 
 public interface MessageHandler {
 

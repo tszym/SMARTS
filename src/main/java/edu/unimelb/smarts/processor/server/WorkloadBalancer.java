@@ -1,4 +1,4 @@
-package processor.server;
+package edu.unimelb.smarts.processor.server;
 
 import java.util.ArrayList;
 import java.util.Random;

@@ -1,4 +1,4 @@
-package common;
+package edu.unimelb.smarts.common;
 
 import java.net.Inet4Address;
 import java.net.InetAddress;

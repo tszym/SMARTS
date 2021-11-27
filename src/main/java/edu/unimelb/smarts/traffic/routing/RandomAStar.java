@@ -1,4 +1,4 @@
-package traffic.routing;
+package edu.unimelb.smarts.traffic.routing;
 
 import java.awt.geom.Point2D;
 import java.util.ArrayList;

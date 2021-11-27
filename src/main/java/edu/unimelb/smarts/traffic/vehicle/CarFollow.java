@@ -1,4 +1,4 @@
-package traffic.vehicle;
+package edu.unimelb.smarts.traffic.vehicle;
 
 /**
  * This class computes vehicle's acceleration based on car-following model and

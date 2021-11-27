@@ -1,4 +1,4 @@
-package traffic.light;
+package edu.unimelb.smarts.traffic.light;
 
 import java.util.ArrayList;
 import java.util.HashMap;

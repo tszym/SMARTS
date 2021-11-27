@@ -1,4 +1,4 @@
-package processor.communication.message;
+package edu.unimelb.smarts.processor.communication.message;
 
 public class Message_WS_ServerBased_SharedMyTrafficWithNeighbor {
 	public String workerName;

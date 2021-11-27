@@ -1,4 +1,4 @@
-package traffic.road;
+package edu.unimelb.smarts.traffic.road;
 
 /**
  * Types of roads. The type names are consistent with OpenStreetMap data.
