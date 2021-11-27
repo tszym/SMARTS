@@ -11,14 +11,14 @@ import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 
-import common.Settings;
-import processor.communication.message.SerializableExternalVehicle;
-import processor.communication.message.SerializableRouteLeg;
-import traffic.road.Edge;
-import traffic.road.Node;
-import traffic.road.RoadNetwork;
-import traffic.vehicle.DriverProfile;
-import traffic.vehicle.VehicleType;
+import edu.unimelb.smarts.common.Settings;
+import edu.unimelb.smarts.processor.communication.message.SerializableExternalVehicle;
+import edu.unimelb.smarts.processor.communication.message.SerializableRouteLeg;
+import edu.unimelb.smarts.traffic.road.Edge;
+import edu.unimelb.smarts.traffic.road.Node;
+import edu.unimelb.smarts.traffic.road.RoadNetwork;
+import edu.unimelb.smarts.traffic.vehicle.DriverProfile;
+import edu.unimelb.smarts.traffic.vehicle.VehicleType;
 
 /**
  * This class loads vehicle routes from external files and create vehicles based

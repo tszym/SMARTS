@@ -26,7 +26,7 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.ListSelectionModel;
 
-import common.Settings;
+import edu.unimelb.smarts.common.Settings;
 
 import javax.swing.GroupLayout;
 import javax.swing.GroupLayout.Alignment;

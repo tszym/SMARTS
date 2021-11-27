@@ -8,15 +8,15 @@ import java.util.List;
 import java.util.PriorityQueue;
 import java.util.Random;
 
-import common.Settings;
-import traffic.TrafficNetwork;
-import traffic.road.Edge;
-import traffic.road.Lane;
-import traffic.road.Node;
-import traffic.road.RoadNetwork;
-import traffic.road.RoadUtil;
-import traffic.vehicle.VehicleType;
-import traffic.vehicle.VehicleUtil;
+import edu.unimelb.smarts.common.Settings;
+import edu.unimelb.smarts.traffic.TrafficNetwork;
+import edu.unimelb.smarts.traffic.road.Edge;
+import edu.unimelb.smarts.traffic.road.Lane;
+import edu.unimelb.smarts.traffic.road.Node;
+import edu.unimelb.smarts.traffic.road.RoadNetwork;
+import edu.unimelb.smarts.traffic.road.RoadUtil;
+import edu.unimelb.smarts.traffic.vehicle.VehicleType;
+import edu.unimelb.smarts.traffic.vehicle.VehicleUtil;
 
 public class RandomAStar extends Routing {
 	double overdoFactorInAStar = 2;//Parameter in Overdo A* routing

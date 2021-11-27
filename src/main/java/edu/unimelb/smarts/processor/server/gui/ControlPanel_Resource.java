@@ -12,9 +12,9 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.SwingConstants;
 
-import common.Settings;
-import processor.Simulator;
-import processor.server.Server;
+import edu.unimelb.smarts.common.Settings;
+import edu.unimelb.smarts.processor.Simulator;
+import edu.unimelb.smarts.processor.server.Server;
 import javax.swing.GroupLayout;
 import javax.swing.GroupLayout.Alignment;
 import javax.swing.LayoutStyle.ComponentPlacement;

@@ -1,6 +1,6 @@
 package edu.unimelb.smarts.processor.communication.message;
 
-import traffic.road.GridCell;
+import edu.unimelb.smarts.traffic.road.GridCell;
 
 public class SerializableGridCell {
 	public int row;

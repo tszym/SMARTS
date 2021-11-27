@@ -3,9 +3,9 @@ package edu.unimelb.smarts.processor.server;
 import java.util.ArrayList;
 import java.util.Random;
 
-import common.Settings;
-import traffic.road.GridCell;
-import traffic.road.RoadNetwork;
+import edu.unimelb.smarts.common.Settings;
+import edu.unimelb.smarts.traffic.road.GridCell;
+import edu.unimelb.smarts.traffic.road.RoadNetwork;
 
 /**
  * Balance work load, i.e., the number of random background vehicles, between

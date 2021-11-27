@@ -7,9 +7,9 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import common.Settings;
-import traffic.light.TrafficLightTiming;
-import traffic.routing.Routing;
+import edu.unimelb.smarts.common.Settings;
+import edu.unimelb.smarts.traffic.light.TrafficLightTiming;
+import edu.unimelb.smarts.traffic.routing.Routing;
 
 /**
  * This class loads simulation setups from a file.

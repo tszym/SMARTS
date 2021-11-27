@@ -23,9 +23,9 @@ import javax.swing.JTextField;
 import javax.swing.SwingWorker;
 import javax.swing.Timer;
 
-import common.Settings;
-import processor.server.Server;
-import traffic.road.RoadType;
+import edu.unimelb.smarts.common.Settings;
+import edu.unimelb.smarts.processor.server.Server;
+import edu.unimelb.smarts.traffic.road.RoadType;
 
 public class GuiUtil {
 

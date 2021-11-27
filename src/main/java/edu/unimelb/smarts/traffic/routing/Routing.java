@@ -2,10 +2,10 @@ package edu.unimelb.smarts.traffic.routing;
 
 import java.util.ArrayList;
 
-import traffic.TrafficNetwork;
-import traffic.road.Edge;
-import traffic.vehicle.Vehicle;
-import traffic.vehicle.VehicleType;
+import edu.unimelb.smarts.traffic.TrafficNetwork;
+import edu.unimelb.smarts.traffic.road.Edge;
+import edu.unimelb.smarts.traffic.vehicle.Vehicle;
+import edu.unimelb.smarts.traffic.vehicle.VehicleType;
 
 public abstract class Routing {
 	public enum Algorithm {

@@ -2,10 +2,10 @@ package edu.unimelb.smarts.processor.communication.message;
 
 import java.util.ArrayList;
 
-import common.Settings;
-import processor.server.WorkerMeta;
-import traffic.road.Edge;
-import traffic.road.Node;
+import edu.unimelb.smarts.common.Settings;
+import edu.unimelb.smarts.processor.server.WorkerMeta;
+import edu.unimelb.smarts.traffic.road.Edge;
+import edu.unimelb.smarts.traffic.road.Node;
 
 /**
  * Server-to-worker message containing the simulation configuration. Worker will

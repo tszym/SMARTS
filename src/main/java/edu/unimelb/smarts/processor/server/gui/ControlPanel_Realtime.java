@@ -19,9 +19,9 @@ import javax.swing.SwingConstants;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-import common.Settings;
-import processor.server.Server;
-import processor.server.gui.GUI.VehicleDetailType;
+import edu.unimelb.smarts.common.Settings;
+import edu.unimelb.smarts.processor.server.Server;
+import edu.unimelb.smarts.processor.server.gui.GUI.VehicleDetailType;
 
 import javax.swing.GroupLayout;
 import javax.swing.GroupLayout.Alignment;

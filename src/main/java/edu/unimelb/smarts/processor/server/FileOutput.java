@@ -10,12 +10,12 @@ import java.util.Map.Entry;
 import java.util.Set;
 import java.util.TreeMap;
 
-import common.Settings;
-import common.SysUtil;
-import processor.communication.message.SerializableRoute;
-import processor.communication.message.SerializableRouteDumpPoint;
-import processor.communication.message.SerializableTrajectory;
-import traffic.routing.Routing;
+import edu.unimelb.smarts.common.Settings;
+import edu.unimelb.smarts.common.SysUtil;
+import edu.unimelb.smarts.processor.communication.message.SerializableRoute;
+import edu.unimelb.smarts.processor.communication.message.SerializableRouteDumpPoint;
+import edu.unimelb.smarts.processor.communication.message.SerializableTrajectory;
+import edu.unimelb.smarts.traffic.routing.Routing;
 
 public class FileOutput {
 	FileOutputStream fosLog;

@@ -4,13 +4,13 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
 
-import common.Settings;
-import processor.communication.message.SerializableRouteLeg;
-import traffic.road.Edge;
-import traffic.road.Lane;
-import traffic.road.Node;
-import traffic.road.RoadType;
-import traffic.vehicle.VehicleType;
+import edu.unimelb.smarts.common.Settings;
+import edu.unimelb.smarts.processor.communication.message.SerializableRouteLeg;
+import edu.unimelb.smarts.traffic.road.Edge;
+import edu.unimelb.smarts.traffic.road.Lane;
+import edu.unimelb.smarts.traffic.road.Node;
+import edu.unimelb.smarts.traffic.road.RoadType;
+import edu.unimelb.smarts.traffic.vehicle.VehicleType;
 
 public class RouteUtil {
 

@@ -2,10 +2,10 @@ package edu.unimelb.smarts.processor.server;
 
 import java.util.ArrayList;
 
-import processor.communication.MessageSender;
-import processor.communication.message.SerializableExternalVehicle;
-import processor.worker.Workarea;
-import traffic.road.GridCell;
+import edu.unimelb.smarts.processor.communication.MessageSender;
+import edu.unimelb.smarts.processor.communication.message.SerializableExternalVehicle;
+import edu.unimelb.smarts.processor.worker.Workarea;
+import edu.unimelb.smarts.traffic.road.GridCell;
 
 /**
  * Meta data of worker.

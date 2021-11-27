@@ -3,19 +3,19 @@ package edu.unimelb.smarts.processor.worker;
 import java.util.ArrayList;
 import java.util.Collections;
 
-import common.Settings;
-import processor.communication.message.SerializableTrajectoryPoint;
-import traffic.TrafficNetwork;
-import traffic.light.TrafficLightTiming;
-import traffic.road.Edge;
-import traffic.road.Lane;
-import traffic.routing.RouteLeg;
-import traffic.vehicle.CarFollow;
-import traffic.vehicle.LaneChange;
-import traffic.vehicle.LaneChangeDirection;
-import traffic.vehicle.Vehicle;
-import traffic.vehicle.VehicleType;
-import traffic.vehicle.VehicleUtil;
+import edu.unimelb.smarts.common.Settings;
+import edu.unimelb.smarts.processor.communication.message.SerializableTrajectoryPoint;
+import edu.unimelb.smarts.traffic.TrafficNetwork;
+import edu.unimelb.smarts.traffic.light.TrafficLightTiming;
+import edu.unimelb.smarts.traffic.road.Edge;
+import edu.unimelb.smarts.traffic.road.Lane;
+import edu.unimelb.smarts.traffic.routing.RouteLeg;
+import edu.unimelb.smarts.traffic.vehicle.CarFollow;
+import edu.unimelb.smarts.traffic.vehicle.LaneChange;
+import edu.unimelb.smarts.traffic.vehicle.LaneChangeDirection;
+import edu.unimelb.smarts.traffic.vehicle.Vehicle;
+import edu.unimelb.smarts.traffic.vehicle.VehicleType;
+import edu.unimelb.smarts.traffic.vehicle.VehicleUtil;
 
 /**
  * This class performs simulation at worker. The simulation includes a sequence

@@ -22,12 +22,12 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.SwingConstants;
 
-import common.Settings;
-import processor.server.FileOutput;
-import processor.server.Server;
-import traffic.light.LightUtil;
-import traffic.light.TrafficLightTiming;
-import traffic.routing.RouteUtil;
+import edu.unimelb.smarts.common.Settings;
+import edu.unimelb.smarts.processor.server.FileOutput;
+import edu.unimelb.smarts.processor.server.Server;
+import edu.unimelb.smarts.traffic.light.LightUtil;
+import edu.unimelb.smarts.traffic.light.TrafficLightTiming;
+import edu.unimelb.smarts.traffic.routing.RouteUtil;
 import javax.swing.GroupLayout;
 import javax.swing.GroupLayout.Alignment;
 import javax.swing.LayoutStyle.ComponentPlacement;

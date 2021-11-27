@@ -46,22 +46,22 @@ import javax.swing.Timer;
 import javax.swing.border.BevelBorder;
 import javax.swing.event.MouseInputAdapter;
 
-import common.Settings;
-import common.SysUtil;
-import processor.communication.message.Serializable_GUI_Light;
-import processor.communication.message.Serializable_GUI_Vehicle;
-import processor.server.Server;
-import processor.server.gui.DrawingObject.EdgeObject;
-import processor.server.gui.DrawingObject.EdgeObjectComparator;
-import processor.server.gui.DrawingObject.IntersectionObject;
-import processor.server.gui.DrawingObject.TramStopObject;
-import processor.server.gui.GUI.VehicleDetailType;
-import traffic.road.Edge;
-import traffic.road.Lane;
-import traffic.road.Node;
-import traffic.road.RoadNetwork;
-import traffic.road.RoadUtil;
-import traffic.vehicle.VehicleType;
+import edu.unimelb.smarts.common.Settings;
+import edu.unimelb.smarts.common.SysUtil;
+import edu.unimelb.smarts.processor.communication.message.Serializable_GUI_Light;
+import edu.unimelb.smarts.processor.communication.message.Serializable_GUI_Vehicle;
+import edu.unimelb.smarts.processor.server.Server;
+import edu.unimelb.smarts.processor.server.gui.DrawingObject.EdgeObject;
+import edu.unimelb.smarts.processor.server.gui.DrawingObject.EdgeObjectComparator;
+import edu.unimelb.smarts.processor.server.gui.DrawingObject.IntersectionObject;
+import edu.unimelb.smarts.processor.server.gui.DrawingObject.TramStopObject;
+import edu.unimelb.smarts.processor.server.gui.GUI.VehicleDetailType;
+import edu.unimelb.smarts.traffic.road.Edge;
+import edu.unimelb.smarts.traffic.road.Lane;
+import edu.unimelb.smarts.traffic.road.Node;
+import edu.unimelb.smarts.traffic.road.RoadNetwork;
+import edu.unimelb.smarts.traffic.road.RoadUtil;
+import edu.unimelb.smarts.traffic.vehicle.VehicleType;
 
 /**
  * Panel that shows moving vehicles on map.

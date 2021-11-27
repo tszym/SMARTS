@@ -3,13 +3,13 @@ package edu.unimelb.smarts.traffic.vehicle;
 import java.util.HashMap;
 import java.util.Random;
 
-import common.Settings;
-import traffic.light.LightColor;
-import traffic.road.Edge;
-import traffic.road.Lane;
-import traffic.road.RoadUtil;
-import traffic.vehicle.SlowdownFactor;
-import traffic.vehicle.LaneChangeDirection;
+import edu.unimelb.smarts.common.Settings;
+import edu.unimelb.smarts.traffic.light.LightColor;
+import edu.unimelb.smarts.traffic.road.Edge;
+import edu.unimelb.smarts.traffic.road.Lane;
+import edu.unimelb.smarts.traffic.road.RoadUtil;
+import edu.unimelb.smarts.traffic.vehicle.SlowdownFactor;
+import edu.unimelb.smarts.traffic.vehicle.LaneChangeDirection;
 
 /**
  * MOBIL model for lane-changing.

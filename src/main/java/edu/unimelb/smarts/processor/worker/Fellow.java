@@ -2,11 +2,11 @@ package edu.unimelb.smarts.processor.worker;
 
 import java.util.ArrayList;
 
-import processor.communication.MessageSender;
-import traffic.road.Edge;
-import traffic.road.GridCell;
-import traffic.road.Node;
-import traffic.vehicle.Vehicle;
+import edu.unimelb.smarts.processor.communication.MessageSender;
+import edu.unimelb.smarts.traffic.road.Edge;
+import edu.unimelb.smarts.traffic.road.GridCell;
+import edu.unimelb.smarts.traffic.road.Node;
+import edu.unimelb.smarts.traffic.vehicle.Vehicle;
 
 /**
  * A worker has one or more fellow workers when there are multiple workers in

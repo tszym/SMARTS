@@ -2,7 +2,7 @@ package edu.unimelb.smarts.traffic.road;
 
 import java.util.ArrayList;
 
-import traffic.vehicle.Vehicle;
+import edu.unimelb.smarts.traffic.vehicle.Vehicle;
 
 /**
  * Lane is a basic element in road network. An edge contains one or more lanes.

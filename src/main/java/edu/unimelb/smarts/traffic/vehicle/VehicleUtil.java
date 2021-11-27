@@ -2,16 +2,16 @@ package edu.unimelb.smarts.traffic.vehicle;
 
 import java.awt.geom.Line2D;
 
-import common.Settings;
-import traffic.light.LightColor;
-import traffic.light.TrafficLightTiming;
-import traffic.road.Edge;
-import traffic.road.Lane;
-import traffic.road.Node;
-import traffic.road.RoadType;
-import traffic.road.RoadUtil;
-import traffic.routing.RouteLeg;
-import traffic.vehicle.SlowdownFactor;
+import edu.unimelb.smarts.common.Settings;
+import edu.unimelb.smarts.traffic.light.LightColor;
+import edu.unimelb.smarts.traffic.light.TrafficLightTiming;
+import edu.unimelb.smarts.traffic.road.Edge;
+import edu.unimelb.smarts.traffic.road.Lane;
+import edu.unimelb.smarts.traffic.road.Node;
+import edu.unimelb.smarts.traffic.road.RoadType;
+import edu.unimelb.smarts.traffic.road.RoadUtil;
+import edu.unimelb.smarts.traffic.routing.RouteLeg;
+import edu.unimelb.smarts.traffic.vehicle.SlowdownFactor;
 
 /**
  * This class finds impeding objects based on various factors, e.g., traffic

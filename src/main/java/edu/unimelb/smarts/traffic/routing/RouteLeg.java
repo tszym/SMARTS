@@ -1,6 +1,6 @@
 package edu.unimelb.smarts.traffic.routing;
 
-import traffic.road.Edge;
+import edu.unimelb.smarts.traffic.road.Edge;
 
 /**
  * A leg on the route.

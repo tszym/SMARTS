@@ -7,8 +7,8 @@ import java.util.ArrayList;
 
 import javax.swing.JDialog;
 
-import processor.communication.message.Serializable_GUI_Vehicle;
-import processor.server.gui.DrawingObject.EdgeObject;
+import edu.unimelb.smarts.processor.communication.message.Serializable_GUI_Vehicle;
+import edu.unimelb.smarts.processor.server.gui.DrawingObject.EdgeObject;
 
 public class GuiStatistic extends JDialog {
 	Rectangle2D.Double queryWindow = null;

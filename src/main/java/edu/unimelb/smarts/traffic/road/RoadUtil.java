@@ -10,10 +10,10 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 
-import common.Settings;
-import traffic.light.LightColor;
-import traffic.vehicle.Vehicle;
-import traffic.vehicle.VehicleType;
+import edu.unimelb.smarts.common.Settings;
+import edu.unimelb.smarts.traffic.light.LightColor;
+import edu.unimelb.smarts.traffic.vehicle.Vehicle;
+import edu.unimelb.smarts.traffic.vehicle.VehicleType;
 
 public class RoadUtil {
 

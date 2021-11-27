@@ -2,7 +2,7 @@ package edu.unimelb.smarts.processor.worker;
 
 import java.util.ArrayList;
 
-import traffic.road.GridCell;
+import edu.unimelb.smarts.traffic.road.GridCell;
 
 /**
  * Responsible area of a worker. The area consists of one or more grid cells,

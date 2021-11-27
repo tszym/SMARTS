@@ -2,7 +2,7 @@ package edu.unimelb.smarts.processor.server.gui;
 
 import java.util.Comparator;
 
-import traffic.road.RoadType;
+import edu.unimelb.smarts.traffic.road.RoadType;
 
 public class DrawingObject {
 

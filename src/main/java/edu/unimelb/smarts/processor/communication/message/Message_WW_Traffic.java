@@ -2,12 +2,12 @@ package edu.unimelb.smarts.processor.communication.message;
 
 import java.util.ArrayList;
 
-import processor.worker.Fellow;
-import traffic.road.Edge;
-import traffic.road.Lane;
-import traffic.routing.RouteLeg;
-import traffic.vehicle.Vehicle;
-import traffic.vehicle.VehicleUtil;
+import edu.unimelb.smarts.processor.worker.Fellow;
+import edu.unimelb.smarts.traffic.road.Edge;
+import edu.unimelb.smarts.traffic.road.Lane;
+import edu.unimelb.smarts.traffic.routing.RouteLeg;
+import edu.unimelb.smarts.traffic.vehicle.Vehicle;
+import edu.unimelb.smarts.traffic.vehicle.VehicleUtil;
 
 /**
  * Worker-to-worker message that contains information of traffic near the

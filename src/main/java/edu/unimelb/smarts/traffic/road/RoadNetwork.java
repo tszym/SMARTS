@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 
-import common.Settings;
+import edu.unimelb.smarts.common.Settings;
 
 /**
  * A road network consists of a number of nodes that are connected with edges.

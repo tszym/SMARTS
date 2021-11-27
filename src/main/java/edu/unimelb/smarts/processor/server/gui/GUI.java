@@ -11,13 +11,13 @@ import javax.swing.JOptionPane;
 import javax.swing.JScrollPane;
 import javax.swing.UIManager;
 
-import common.Settings;
-import osm.OSM;
-import processor.communication.message.Serializable_GUI_Light;
-import processor.communication.message.Serializable_GUI_Vehicle;
-import processor.server.Server;
-import traffic.road.RoadNetwork;
-import traffic.road.RoadUtil;
+import edu.unimelb.smarts.common.Settings;
+import edu.unimelb.smarts.osm.OSM;
+import edu.unimelb.smarts.processor.communication.message.Serializable_GUI_Light;
+import edu.unimelb.smarts.processor.communication.message.Serializable_GUI_Vehicle;
+import edu.unimelb.smarts.processor.server.Server;
+import edu.unimelb.smarts.traffic.road.RoadNetwork;
+import edu.unimelb.smarts.traffic.road.RoadUtil;
 
 /**
  * GUI contains the panels for controlling simulation and showing the progress

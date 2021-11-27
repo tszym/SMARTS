@@ -1,7 +1,7 @@
 package edu.unimelb.smarts.traffic.vehicle;
 
-import traffic.road.Lane;
-import traffic.vehicle.SlowdownFactor;
+import edu.unimelb.smarts.traffic.road.Lane;
+import edu.unimelb.smarts.traffic.vehicle.SlowdownFactor;
 
 /**
  * This class computes ideal acceleration based on various types of impeding

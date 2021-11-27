@@ -2,9 +2,9 @@ package edu.unimelb.smarts.traffic.vehicle;
 
 import java.util.ArrayList;
 
-import traffic.road.Edge;
-import traffic.road.Lane;
-import traffic.routing.RouteLeg;
+import edu.unimelb.smarts.traffic.road.Edge;
+import edu.unimelb.smarts.traffic.road.Lane;
+import edu.unimelb.smarts.traffic.routing.RouteLeg;
 
 public class Vehicle {
 	public String id = "";

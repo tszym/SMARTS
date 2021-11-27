@@ -10,7 +10,7 @@ import javax.swing.JButton;
 import javax.swing.JPanel;
 import javax.swing.SwingConstants;
 
-import processor.server.Server;
+import edu.unimelb.smarts.processor.server.Server;
 
 public class ControlPanel extends JPanel {
 	ControlPanel_Resource cpRes;

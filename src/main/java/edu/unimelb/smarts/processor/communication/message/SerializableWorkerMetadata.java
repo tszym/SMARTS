@@ -2,8 +2,8 @@ package edu.unimelb.smarts.processor.communication.message;
 
 import java.util.ArrayList;
 
-import processor.server.WorkerMeta;
-import traffic.road.GridCell;
+import edu.unimelb.smarts.processor.server.WorkerMeta;
+import edu.unimelb.smarts.traffic.road.GridCell;
 
 public class SerializableWorkerMetadata {
 	public String name;

@@ -4,7 +4,7 @@ import java.lang.reflect.Field;
 import java.lang.reflect.ParameterizedType;
 import java.util.ArrayList;
 
-import common.Settings;
+import edu.unimelb.smarts.common.Settings;
 
 /**
  * This class covert messages to strings and vice versa. When converting a

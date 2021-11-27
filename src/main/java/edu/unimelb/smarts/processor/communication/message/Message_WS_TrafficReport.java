@@ -2,16 +2,16 @@ package edu.unimelb.smarts.processor.communication.message;
 
 import java.util.ArrayList;
 
-import common.Settings;
-import processor.server.DataOutputScope;
-import traffic.light.LightCoordinator;
-import traffic.light.LightCoordinator.LightGroup;
-import traffic.light.TrafficLightTiming;
-import traffic.road.Edge;
-import traffic.routing.RouteLeg;
-import traffic.vehicle.Vehicle;
-import traffic.vehicle.VehicleType;
-import traffic.vehicle.VehicleUtil;
+import edu.unimelb.smarts.common.Settings;
+import edu.unimelb.smarts.processor.server.DataOutputScope;
+import edu.unimelb.smarts.traffic.light.LightCoordinator;
+import edu.unimelb.smarts.traffic.light.LightCoordinator.LightGroup;
+import edu.unimelb.smarts.traffic.light.TrafficLightTiming;
+import edu.unimelb.smarts.traffic.road.Edge;
+import edu.unimelb.smarts.traffic.routing.RouteLeg;
+import edu.unimelb.smarts.traffic.vehicle.Vehicle;
+import edu.unimelb.smarts.traffic.vehicle.VehicleType;
+import edu.unimelb.smarts.traffic.vehicle.VehicleUtil;
 
 /**
  * Worker-to-server message that is sent by worker after simulating one step.

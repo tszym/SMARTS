@@ -4,10 +4,10 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Random;
 
-import traffic.road.Edge;
-import traffic.road.Node;
-import traffic.road.RoadUtil;
-import traffic.vehicle.VehicleType;
+import edu.unimelb.smarts.traffic.road.Edge;
+import edu.unimelb.smarts.traffic.road.Node;
+import edu.unimelb.smarts.traffic.road.RoadUtil;
+import edu.unimelb.smarts.traffic.vehicle.VehicleType;
 
 public class ReferenceBasedSearch {
 	static Random random = new Random();

@@ -4,12 +4,12 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 
-import common.Settings;
-import processor.communication.message.SerializableInt;
-import processor.worker.Workarea;
-import traffic.road.Edge;
-import traffic.road.Node;
-import traffic.road.RoadUtil;
+import edu.unimelb.smarts.common.Settings;
+import edu.unimelb.smarts.processor.communication.message.SerializableInt;
+import edu.unimelb.smarts.processor.worker.Workarea;
+import edu.unimelb.smarts.traffic.road.Edge;
+import edu.unimelb.smarts.traffic.road.Node;
+import edu.unimelb.smarts.traffic.road.RoadUtil;
 
 /**
  * This class handles the initialization of traffic lights and the switch of

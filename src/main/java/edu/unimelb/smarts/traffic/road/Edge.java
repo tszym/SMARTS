@@ -3,8 +3,8 @@ package edu.unimelb.smarts.traffic.road;
 import java.util.ArrayList;
 import java.util.List;
 
-import traffic.light.LightColor;
-import traffic.vehicle.Vehicle;
+import edu.unimelb.smarts.traffic.light.LightColor;
+import edu.unimelb.smarts.traffic.vehicle.Vehicle;
 
 /**
  * Edge is a basic element in road network. A network consists of a number of
