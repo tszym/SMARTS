@@ -47,7 +47,7 @@ public class Settings {
 	 */
 	public static String inputSimulationScript = "script.txt";//Simulation setup file when GUI is not used
 	public static String inputOpenStreetMapFile = "cbd.osm";//OSM file where road network information can be extracted
-	public static String inputBuiltinResource = "/resources/";//Directory where built-in resources are located
+	public static String inputBuiltinResource = "/";//Directory where built-in resources are located
 	public static String inputBuiltinRoadGraph = inputBuiltinResource + "roads.txt";//Built-in road network data
 	public static String inputBuiltinPlaceNameFile = inputBuiltinResource + "cities500.txt";//Coordinates of named places around the world
 	public static String inputBuiltinAdministrativeRegionCentroid = inputBuiltinResource + "country_centroids_all.csv";//Coordinates of administrative regions
